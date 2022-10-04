@@ -1,0 +1,114 @@
+{
+  "tests": [
+    {
+      "name": "ClassTest.existsPerson",
+      "setup": "",
+      "run": "gradle test --tests ClassTest.existsPerson",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "ClassTest.existsAttrInPerson",
+      "setup": "",
+      "run": "gradle test --tests ClassTest.existsAttrInPerson",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "ClassTest.existsMethodInPerson",
+      "setup": "",
+      "run": "gradle test --tests ClassTest.existsMethodInPerson",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "ClassTest.existsMusician",
+      "setup": "",
+      "run": "gradle test --tests ClassTest.existsMusician",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "ClassTest.existsAttrInMusician",
+      "setup": "",
+      "run": "gradle test --tests ClassTest.existsAttrInMusician",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "ClassTest.existsMethodPlayInMusician",
+      "setup": "",
+      "run": "gradle test --tests ClassTest.existsMethodPlayInMusician",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "ClassTest.existsGuitarPlayer",
+      "setup": "",
+      "run": "gradle test --tests ClassTest.existsGuitarPlayer",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "ClassTest.existsMusicianExtendsPerson",
+      "setup": "",
+      "run": "gradle test --tests ClassTest.existsMusicianExtendsPerson",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "ClassTest.existsGuitarPlayerExtendsMusician",
+      "setup": "",
+      "run": "gradle test --tests ClassTest.existsGuitarPlayerExtendsMusician",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "ClassTest.existsAttrInGuitarPlayer",
+      "setup": "",
+      "run": "gradle test --tests ClassTest.existsAttrInGuitarPlayer",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    },
+    {
+      "name": "ClassTest.existsMethodPlayGuitarInGuitarPlayer",
+      "setup": "",
+      "run": "gradle test --tests ClassTest.existsMethodPlayGuitarInGuitarPlayer",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 1,
+      "points": 1
+    }
+  ]
+}
